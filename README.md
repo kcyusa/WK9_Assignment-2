@@ -21,3 +21,19 @@ Program to calculate net salary.
   -  run: netSalary
 
 # Task 2
+Program to order 20 names in descending or ascending order.
+# Params to sort:
+Order the names using bubble sort
+# How to run the program:
+  -  compile: gcc -C sorts.c -o sorts
+  -  run: sorts
+
+# Task 3
+Program to handle information of students specifically email addressess
+# Params to manage the info:
+  - Store the details (email), using the dynamic memory management functions
+  - Use malloc() or calloc() and the compulsory use of free().
+# How to run the program:
+  -  compile: gcc -C man.c -o man
+  -  run: man
+
