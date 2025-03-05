@@ -17,5 +17,5 @@ Program to calculate net salary.
 - Direct modification of variables.
 
 # How to run the program:
-  -  compile: gcc -C Task1.c -o task1
-  -  run: task1
+  -  compile: gcc -C netSalary.c -o netSalary
+  -  run: netSalary
