@@ -20,4 +20,7 @@ Program to calculate net salary.
   -  compile: gcc -C netSalary.c -o netSalary
   -  run: netSalary
 
-# Task 2
+# Members contribution
+  We divides the tasks among ourselves
+  - Collette: task2, task3
+  - Keny: task1, README and task2
